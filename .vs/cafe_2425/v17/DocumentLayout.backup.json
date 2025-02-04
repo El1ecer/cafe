@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Universidad\\6to\\Estudio complexivo de los sistemas de informacion\\3\\cafe_2425\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A18A0FCC-EF2D-4C19-8F93-04C2F8A63208}|cafe_2425\\cafe_2425.csproj|E:\\Universidad\\6to\\Estudio complexivo de los sistemas de informacion\\3\\cafe_2425\\cafe_2425\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A18A0FCC-EF2D-4C19-8F93-04C2F8A63208}|cafe_2425\\cafe_2425.csproj|solutionrelative:cafe_2425\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18A0FCC-EF2D-4C19-8F93-04C2F8A63208}|cafe_2425\\cafe_2425.csproj|E:\\Universidad\\6to\\Estudio complexivo de los sistemas de informacion\\3\\cafe_2425\\cafe_2425\\historia.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A18A0FCC-EF2D-4C19-8F93-04C2F8A63208}|cafe_2425\\cafe_2425.csproj|solutionrelative:cafe_2425\\historia.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18A0FCC-EF2D-4C19-8F93-04C2F8A63208}|cafe_2425\\cafe_2425.csproj|E:\\Universidad\\6to\\Estudio complexivo de los sistemas de informacion\\3\\cafe_2425\\cafe_2425\\menu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A18A0FCC-EF2D-4C19-8F93-04C2F8A63208}|cafe_2425\\cafe_2425.csproj|solutionrelative:cafe_2425\\menu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18A0FCC-EF2D-4C19-8F93-04C2F8A63208}|cafe_2425\\cafe_2425.csproj|e:\\universidad\\6to\\estudio complexivo de los sistemas de informacion\\3\\cafe_2425\\cafe_2425\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{A18A0FCC-EF2D-4C19-8F93-04C2F8A63208}|cafe_2425\\cafe_2425.csproj|solutionrelative:cafe_2425\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18A0FCC-EF2D-4C19-8F93-04C2F8A63208}|cafe_2425\\cafe_2425.csproj|E:\\Universidad\\6to\\Estudio complexivo de los sistemas de informacion\\3\\cafe_2425\\cafe_2425\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A18A0FCC-EF2D-4C19-8F93-04C2F8A63208}|cafe_2425\\cafe_2425.csproj|solutionrelative:cafe_2425\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18A0FCC-EF2D-4C19-8F93-04C2F8A63208}|cafe_2425\\cafe_2425.csproj|E:\\Universidad\\6to\\Estudio complexivo de los sistemas de informacion\\3\\cafe_2425\\cafe_2425\\mision_vision.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A18A0FCC-EF2D-4C19-8F93-04C2F8A63208}|cafe_2425\\cafe_2425.csproj|solutionrelative:cafe_2425\\mision_vision.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18A0FCC-EF2D-4C19-8F93-04C2F8A63208}|cafe_2425\\cafe_2425.csproj|E:\\Universidad\\6to\\Estudio complexivo de los sistemas de informacion\\3\\cafe_2425\\cafe_2425\\galeria.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A18A0FCC-EF2D-4C19-8F93-04C2F8A63208}|cafe_2425\\cafe_2425.csproj|solutionrelative:cafe_2425\\galeria.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "E:\\Universidad\\6to\\Estudio complexivo de los sistemas de informacion\\3\\cafe_2425\\cafe_2425\\Default.aspx",
+              "RelativeDocumentMoniker": "cafe_2425\\Default.aspx",
+              "ToolTip": "E:\\Universidad\\6to\\Estudio complexivo de los sistemas de informacion\\3\\cafe_2425\\cafe_2425\\Default.aspx",
+              "RelativeToolTip": "cafe_2425\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-09T03:13:09.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "galeria.aspx",
+              "DocumentMoniker": "E:\\Universidad\\6to\\Estudio complexivo de los sistemas de informacion\\3\\cafe_2425\\cafe_2425\\galeria.aspx",
+              "RelativeDocumentMoniker": "cafe_2425\\galeria.aspx",
+              "ToolTip": "E:\\Universidad\\6to\\Estudio complexivo de los sistemas de informacion\\3\\cafe_2425\\cafe_2425\\galeria.aspx",
+              "RelativeToolTip": "cafe_2425\\galeria.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-09T02:47:12.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "E:\\Universidad\\6to\\Estudio complexivo de los sistemas de informacion\\3\\cafe_2425\\cafe_2425\\Contact.aspx",
+              "RelativeDocumentMoniker": "cafe_2425\\Contact.aspx",
+              "ToolTip": "E:\\Universidad\\6to\\Estudio complexivo de los sistemas de informacion\\3\\cafe_2425\\cafe_2425\\Contact.aspx*",
+              "RelativeToolTip": "cafe_2425\\Contact.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-09T02:27:53.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "historia.aspx",
+              "DocumentMoniker": "E:\\Universidad\\6to\\Estudio complexivo de los sistemas de informacion\\3\\cafe_2425\\cafe_2425\\historia.aspx",
+              "RelativeDocumentMoniker": "cafe_2425\\historia.aspx",
+              "ToolTip": "E:\\Universidad\\6to\\Estudio complexivo de los sistemas de informacion\\3\\cafe_2425\\cafe_2425\\historia.aspx",
+              "RelativeToolTip": "cafe_2425\\historia.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-09T02:12:48.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "menu.aspx",
+              "DocumentMoniker": "E:\\Universidad\\6to\\Estudio complexivo de los sistemas de informacion\\3\\cafe_2425\\cafe_2425\\menu.aspx",
+              "RelativeDocumentMoniker": "cafe_2425\\menu.aspx",
+              "ToolTip": "E:\\Universidad\\6to\\Estudio complexivo de los sistemas de informacion\\3\\cafe_2425\\cafe_2425\\menu.aspx",
+              "RelativeToolTip": "cafe_2425\\menu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-09T01:08:01.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "mision_vision.aspx",
+              "DocumentMoniker": "E:\\Universidad\\6to\\Estudio complexivo de los sistemas de informacion\\3\\cafe_2425\\cafe_2425\\mision_vision.aspx",
+              "RelativeDocumentMoniker": "cafe_2425\\mision_vision.aspx",
+              "ToolTip": "E:\\Universidad\\6to\\Estudio complexivo de los sistemas de informacion\\3\\cafe_2425\\cafe_2425\\mision_vision.aspx",
+              "RelativeToolTip": "cafe_2425\\mision_vision.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-09T01:57:01.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site.Master",
+              "DocumentMoniker": "E:\\Universidad\\6to\\Estudio complexivo de los sistemas de informacion\\3\\cafe_2425\\cafe_2425\\Site.Master",
+              "RelativeDocumentMoniker": "cafe_2425\\Site.Master",
+              "ToolTip": "E:\\Universidad\\6to\\Estudio complexivo de los sistemas de informacion\\3\\cafe_2425\\cafe_2425\\Site.Master",
+              "RelativeToolTip": "cafe_2425\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-09T01:01:54.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
